@@ -30,6 +30,8 @@ let displayPoems = (array) => {
         <div class="poem__content">
             ${poem.poem}
         </div>
+        <div>
+        </div>
     </div>
     `;
   });
