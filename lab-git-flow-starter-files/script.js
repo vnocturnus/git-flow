@@ -19,6 +19,11 @@ const poems = [
     poem: "roses aren't redgi",
     image: "bee.jpeg",
   },  
+  {
+    author: "Jimmy",
+    poem: "roses aren't not red",
+    image: "sunflower.jpeg",
+  },  
 ];
 
 let displayPoems = (array) => {
