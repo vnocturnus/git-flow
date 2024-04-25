@@ -19,6 +19,11 @@ const poems = [
     poem: "I'm hungry \n Give me food \n Your food looks good Dakota",
     image: "bee.jpeg",
   }, 
+  {
+    author: "Dina2",
+    poem: "2 I'm hungry \n Give me food \n Your food looks good Dakota",
+    image: "bee.jpeg",
+  },
 ];
 
 let displayPoems = (array) => {
